@@ -1,2 +1,2 @@
-#!/ban/bash
-mkdir -m 777  /temp/my_first_directory/
+#!/bin/bash
+mkdir /rmp/my_first_directory/
