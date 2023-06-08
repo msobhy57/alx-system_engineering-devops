@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m777/tmp/my_frist_directory/
+mkdir -m777/tmp/my_frist_directory
